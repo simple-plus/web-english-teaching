@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/web-english-teaching/static/css/main.a617e044.chunk.css",
+    "main.js": "/web-english-teaching/static/js/main.4e508428.chunk.js",
+    "main.js.map": "/web-english-teaching/static/js/main.4e508428.chunk.js.map",
+    "runtime-main.js": "/web-english-teaching/static/js/runtime-main.40577d88.js",
+    "runtime-main.js.map": "/web-english-teaching/static/js/runtime-main.40577d88.js.map",
+    "static/js/2.46461e82.chunk.js": "/web-english-teaching/static/js/2.46461e82.chunk.js",
+    "static/js/2.46461e82.chunk.js.map": "/web-english-teaching/static/js/2.46461e82.chunk.js.map",
+    "static/js/3.ce41feab.chunk.js": "/web-english-teaching/static/js/3.ce41feab.chunk.js",
+    "static/js/3.ce41feab.chunk.js.map": "/web-english-teaching/static/js/3.ce41feab.chunk.js.map",
+    "index.html": "/web-english-teaching/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/web-english-teaching/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.46461e82.chunk.js.LICENSE.txt": "/web-english-teaching/static/js/2.46461e82.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/web-english-teaching/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40577d88.js",
+    "static/js/2.46461e82.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.4e508428.chunk.js"
+  ]
+}
