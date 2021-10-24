@@ -17,7 +17,7 @@ function App() {
   return (
     <AuthProvider>
       <ContentProvider>
-        <BrowserRouter>
+        <BrowserRouter basename={process.env.PUBLIC_URL}>
           <Route exact path="/" component={Dashboard} />
           <Route exact path="/conta/cadastrar" component={Cadastrar} />
           <Route exact path="/conta/entrar" component={Entrar} />
