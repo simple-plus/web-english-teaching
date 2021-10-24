@@ -1,19 +1,17 @@
 {
   "files": {
-    "main.js": "/web-english-teaching/static/js/main.c58fdd39.chunk.js",
-    "main.js.map": "/web-english-teaching/static/js/main.c58fdd39.chunk.js.map",
+    "main.js": "/web-english-teaching/static/js/main.3d2607fc.chunk.js",
+    "main.js.map": "/web-english-teaching/static/js/main.3d2607fc.chunk.js.map",
     "runtime-main.js": "/web-english-teaching/static/js/runtime-main.b327fd0c.js",
     "runtime-main.js.map": "/web-english-teaching/static/js/runtime-main.b327fd0c.js.map",
     "static/js/2.3c913017.chunk.js": "/web-english-teaching/static/js/2.3c913017.chunk.js",
     "static/js/2.3c913017.chunk.js.map": "/web-english-teaching/static/js/2.3c913017.chunk.js.map",
     "index.html": "/web-english-teaching/index.html",
-    "static/js/2.3c913017.chunk.js.LICENSE.txt": "/web-english-teaching/static/js/2.3c913017.chunk.js.LICENSE.txt",
-    "static/media/ExemploEscolherPalavra.23c6e6de.png": "/web-english-teaching/static/media/ExemploEscolherPalavra.23c6e6de.png",
-    "static/media/ExemploEscreverPalavra.4d3987a2.png": "/web-english-teaching/static/media/ExemploEscreverPalavra.4d3987a2.png"
+    "static/js/2.3c913017.chunk.js.LICENSE.txt": "/web-english-teaching/static/js/2.3c913017.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b327fd0c.js",
     "static/js/2.3c913017.chunk.js",
-    "static/js/main.c58fdd39.chunk.js"
+    "static/js/main.3d2607fc.chunk.js"
   ]
 }
