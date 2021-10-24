@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 function JogoCard({ titulo, descricao, endereco, logo }) {
   return (
-    <Link to={endereco} className="row p-3 mx-auto text-black text-decoration-none" style={{ maxWidth: 720 }}>
+    <span className="row p-3 mx-auto text-black text-decoration-none" style={{ maxWidth: 720 }}>
       <div className="col-sm-6 col-12 align-self-center">
         <div className="col-12 mx-auto text-align-center">
           <h1 className="text-center">{titulo}</h1>
@@ -21,7 +21,7 @@ function JogoCard({ titulo, descricao, endereco, logo }) {
           Jogar
         </Link>
       </div>
-    </Link>
+    </span>
   );
 }
 
