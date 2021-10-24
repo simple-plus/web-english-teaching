@@ -1,23 +1,19 @@
 {
   "files": {
-    "main.css": "/web-english-teaching/static/css/main.a617e044.chunk.css",
-    "main.js": "/web-english-teaching/static/js/main.2597114b.chunk.js",
-    "main.js.map": "/web-english-teaching/static/js/main.2597114b.chunk.js.map",
-    "runtime-main.js": "/web-english-teaching/static/js/runtime-main.40577d88.js",
-    "runtime-main.js.map": "/web-english-teaching/static/js/runtime-main.40577d88.js.map",
-    "static/js/2.46461e82.chunk.js": "/web-english-teaching/static/js/2.46461e82.chunk.js",
-    "static/js/2.46461e82.chunk.js.map": "/web-english-teaching/static/js/2.46461e82.chunk.js.map",
-    "static/js/3.ce41feab.chunk.js": "/web-english-teaching/static/js/3.ce41feab.chunk.js",
-    "static/js/3.ce41feab.chunk.js.map": "/web-english-teaching/static/js/3.ce41feab.chunk.js.map",
+    "main.js": "/web-english-teaching/static/js/main.c58fdd39.chunk.js",
+    "main.js.map": "/web-english-teaching/static/js/main.c58fdd39.chunk.js.map",
+    "runtime-main.js": "/web-english-teaching/static/js/runtime-main.b327fd0c.js",
+    "runtime-main.js.map": "/web-english-teaching/static/js/runtime-main.b327fd0c.js.map",
+    "static/js/2.3c913017.chunk.js": "/web-english-teaching/static/js/2.3c913017.chunk.js",
+    "static/js/2.3c913017.chunk.js.map": "/web-english-teaching/static/js/2.3c913017.chunk.js.map",
     "index.html": "/web-english-teaching/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/web-english-teaching/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.46461e82.chunk.js.LICENSE.txt": "/web-english-teaching/static/js/2.46461e82.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/web-english-teaching/static/media/logo.6ce24c58.svg"
+    "static/js/2.3c913017.chunk.js.LICENSE.txt": "/web-english-teaching/static/js/2.3c913017.chunk.js.LICENSE.txt",
+    "static/media/ExemploEscolherPalavra.23c6e6de.png": "/web-english-teaching/static/media/ExemploEscolherPalavra.23c6e6de.png",
+    "static/media/ExemploEscreverPalavra.4d3987a2.png": "/web-english-teaching/static/media/ExemploEscreverPalavra.4d3987a2.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.40577d88.js",
-    "static/js/2.46461e82.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.2597114b.chunk.js"
+    "static/js/runtime-main.b327fd0c.js",
+    "static/js/2.3c913017.chunk.js",
+    "static/js/main.c58fdd39.chunk.js"
   ]
 }
